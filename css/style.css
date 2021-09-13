@@ -309,6 +309,7 @@ footer p:nth-child(2){
 .social-icons ul{
       display: flex;
       padding:0px 0px;
+      justify-content: center;
 }
 
 .social-icons ul li a{
